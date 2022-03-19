@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{3FA0EE7E-56B3-4BE2-8939-07E12ABADCE4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EOTAudio/Controllers/AudioController.cs">
+    <Files>
+      <File FileName="EOTAudio/Controllers/AudioController.cs" Line="71" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EOTAudio" expanded="True">
+            <Node name="EOTAudio" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EOTAudio PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

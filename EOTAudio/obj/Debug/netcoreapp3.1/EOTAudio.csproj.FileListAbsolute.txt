@@ -1,0 +1,54 @@
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/EOTAudio.csprojAssemblyReference.cache
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/EOTAudio.AssemblyInfoInputs.cache
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/EOTAudio.AssemblyInfo.cs
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/EOTAudio.csproj.CoreCompileInputs.cache
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/EOTAudio.MvcApplicationPartsAssemblyInfo.cache
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/EOTAudio.deps.json
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/EOTAudio.runtimeconfig.json
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/EOTAudio.runtimeconfig.dev.json
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/EOTAudio.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/EOTAudio.pdb
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/staticwebassets/EOTAudio.StaticWebAssets.Manifest.cache
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/staticwebassets/EOTAudio.StaticWebAssets.xml
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/scopedcss/bundle/EOTAudio.styles.css
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/EOTAudio.RazorTargetAssemblyInfo.cache
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/EOTAudio.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/EOTAudio.pdb
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/EOTAudio.genruntimeconfig.cache
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/ace/Desktop/SEYLA/ASP.NET Core Projects/EOTAudio/EOTAudio/obj/Debug/netcoreapp3.1/EOTAudio.csproj.CopyComplete
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\mono_crash.11a67480d0.0.json
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\EOTAudio.StaticWebAssets.xml
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\EOTAudio.exe
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\EOTAudio.deps.json
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\EOTAudio.runtimeconfig.json
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\EOTAudio.runtimeconfig.dev.json
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\EOTAudio.dll
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\EOTAudio.pdb
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\obj\Debug\netcoreapp3.1\EOTAudio.csproj.AssemblyReference.cache
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\obj\Debug\netcoreapp3.1\EOTAudio.GeneratedMSBuildEditorConfig.editorconfig
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\obj\Debug\netcoreapp3.1\EOTAudio.AssemblyInfoInputs.cache
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\obj\Debug\netcoreapp3.1\EOTAudio.AssemblyInfo.cs
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\obj\Debug\netcoreapp3.1\EOTAudio.csproj.CoreCompileInputs.cache
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\obj\Debug\netcoreapp3.1\EOTAudio.MvcApplicationPartsAssemblyInfo.cache
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\obj\Debug\netcoreapp3.1\staticwebassets\EOTAudio.StaticWebAssets.Manifest.cache
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\obj\Debug\netcoreapp3.1\EOTAudio.RazorTargetAssemblyInfo.cache
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\obj\Debug\netcoreapp3.1\EOTAudio.csproj.CopyComplete
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\obj\Debug\netcoreapp3.1\EOTAudio.dll
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\obj\Debug\netcoreapp3.1\EOTAudio.pdb
+D:\ACE_Pheakdey\EOTAudio\EOTAudio\EOTAudio\obj\Debug\netcoreapp3.1\EOTAudio.genruntimeconfig.cache
